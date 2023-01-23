@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ineraction-design/static/css/main.e6c13ad2.css",
+    "main.js": "/ineraction-design/static/js/main.6b168617.js",
+    "static/js/787.0c3f432a.chunk.js": "/ineraction-design/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/ineraction-design/index.html",
+    "main.e6c13ad2.css.map": "/ineraction-design/static/css/main.e6c13ad2.css.map",
+    "main.6b168617.js.map": "/ineraction-design/static/js/main.6b168617.js.map",
+    "787.0c3f432a.chunk.js.map": "/ineraction-design/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6b168617.js"
+  ]
+}
